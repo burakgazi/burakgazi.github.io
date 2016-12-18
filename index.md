@@ -14,6 +14,8 @@ Here is the breakdown:
 This line ensures that you do not pull route config from vpn
 
     route 172.1.0.0 255.255.0.0
+    
+    
 This line you tell to route all traffic for any ip starting with 172.1. to go through VPN.
 
 if you were to set subnet to 255.255.255.0, that will route all traffic for any ip starting with 172.1.0. to go through VPN.
