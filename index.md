@@ -1,4 +1,4 @@
-### How to setup openVPN client config for specific ip
+### How to setup openVPN client config for specific ip 1
 If you want to use OpenVPN just for specific ips here is how :
 
 in .ovpn file add the following :
